@@ -1,0 +1,3 @@
+Dieser Code wird von regelmaesige Nuetzer anwenden um RAM Speicher zu monitoren
+
+Es nimmt als argument **-t**, das heisst, RAM wird jeder "t" Sekunden verfolgen.
