@@ -56,4 +56,3 @@ if __name__ == "__main__":
         vzeit = args.voll_zeit
 
     main(float(vzeit), float(tzeit))
-
