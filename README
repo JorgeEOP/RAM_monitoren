@@ -1,3 +1,6 @@
 Dieser Code wird von regelmaesige Nuetzer anwenden um RAM Speicher zu monitoren
 
-Es nimmt als argument **-t**, das heisst, RAM wird jeder "t" Sekunden verfolgen.
+Es nimmt als Argumente:
+ **-vz**, das heisst, der Vollzeit waehrend das Programm lauft..
+ **-tz**, das heisst, RAM wird jeder "tz" Sekunden verfolgen.
+ 
